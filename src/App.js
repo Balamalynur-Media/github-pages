@@ -1,13 +1,11 @@
 import React from 'react';
-import logo from './logo.svg';
-// import './App.css';
+import logo from './bm.png';
+import './App.css';
 
 function App() {
   return (
     <div>
-      <header>
         <img src={logo} alt="logo" />
-      </header>
     </div>
   );
 }
